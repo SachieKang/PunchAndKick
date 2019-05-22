@@ -25,3 +25,5 @@ bin/*.ilk
 bin/*.bsc
 src/game
 .deps
+/.vs/PunchAndKick/v16
+/.vs
