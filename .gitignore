@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PunchAndKick/v16
+/.vs/ProjectSettings.json
+/.vs
