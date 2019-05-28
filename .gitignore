@@ -1,5 +1,6 @@
-# Object files
-*.o
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
 
 # Executables
 *.exe
@@ -26,4 +27,5 @@ bin/*.bsc
 src/game
 .deps
 /.vs/PunchAndKick/v16
+/.vs/ProjectSettings.json
 /.vs
